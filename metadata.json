@@ -1,0 +1,7 @@
+{
+  "name": "Calorie & Energy Tracker",
+  "description": "แอพพลิเคชันนับแคลอรี่และบันทึกพลังงานที่ใช้จากการออกกำลังกาย คำนวณ BMR/TDEE และวิเคราะห์พลังงานสุทธิประจำวัน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
